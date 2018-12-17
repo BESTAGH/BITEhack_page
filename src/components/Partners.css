@@ -129,10 +129,68 @@
         margin-top: 20%;
     }
 
-    .Ele_img img {
-        margin-top: 14%;
+        .Ele_img img {
+            margin-top: 14%;
+        }
     }
+
+.media_div{
+    background-color: white;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+.media_logo{
+
+    height: 200px;
+}
+.logoBIS {
+    width: 100%;
+}
+.logodata{
+    width: 66%;
 }
 
-
-
+.logodla{
+    margin-top: 20%;
+    width: 90%;
+}
+.logoeska{
+    margin-top: 15%;
+    width: 90%;
+}
+.logoPodaj{
+    margin-top: 5%;
+    width: 80%;
+}
+.logoPrad{
+    margin-top: 15%;
+    width: 90%;
+}
+.logoProg{
+    margin-top: 0%;
+    width: 100%;
+}
+.logoRadio{
+     margin-top: 15%;
+     width: 90%;
+ }
+.logoOMG{
+    margin-top: 10%;
+    width: 90%;
+}
+.logorocket{
+    margin-top: 10%;
+    width: 95%;
+}
+.logorb{
+    margin-top: 10%;
+    width: 100%;
+}
+.logoitkrk{
+    margin-top: 10%;
+    width: 100%;
+}
+.logosnews{
+    margin-top: 35%;
+    width: 100%;
+}
