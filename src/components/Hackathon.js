@@ -84,7 +84,7 @@ class Hackathon extends Component {
                             </div>
                         </Carousel.Item>
 
-                        )
+
                     </Carousel>
                 </div>
                 <div className='faq-container'>

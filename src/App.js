@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Home from './components/Home';
 import Organizers from './components/Organizers';
 import Partners from './components/Partners';
+import Sponsors from './components/Sponsors';
 import Navbar from './components/CustomNavbar';
 import Particles from './components/Particles';
 import Hackathon from './components/Hackathon';
@@ -75,6 +76,7 @@ class App extends Component {
                       <Route exact path="/hackathon" component={Hackathon} />
                       <Route exact path="/organizers" component={Organizers} />
                       <Route exact path="/partners" component={Partners} />
+                      <Route exact path="/sponsors" component={Sponsors} />
                       <Route exact path="/register" component={Register} />
                       <Route exact path="/" component={Home} />
 

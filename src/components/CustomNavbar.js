@@ -8,6 +8,7 @@ class CustomNavbar extends Component {
     render() {
         return (
             <Navbar default transparent>
+                {/*
                 <Navbar.Header>
                     <Navbar.Brand>
                         <Link to="/">
@@ -15,17 +16,24 @@ class CustomNavbar extends Component {
                         </Link>
                     </Navbar.Brand>
                 </Navbar.Header>
+                */}
                 <Nav>
+                    <NavItem eventKey={6} componentClass={Link} to="/" href="/" >
+                        <Image className="ML" src={require('../img/bitehack_logo_fluo.png')}/>
+                    </NavItem>
                     <NavItem eventKey={1} componentClass={Link} to="/hackathon" href="/hackathon">
                         Hackathon
                      </NavItem>
-                    <NavItem eventKey={2} componentClass={Link} to="/partners" href="/partner">
+                    <NavItem eventKey={2} componentClass={Link} to="/sponsors" href="/sponsors">
+                        Sponsorzy
+                    </NavItem>
+                    <NavItem eventKey={3} componentClass={Link} to="/partners" href="/partner">
                         Partnerzy
                     </NavItem>
-                    <NavItem eventKey={3} componentClass={Link} to="/organizers" href="/organizers">
+                    <NavItem eventKey={4} componentClass={Link} to="/organizers" href="/organizers">
                         Organizatorzy
                     </NavItem>
-                    <NavItem eventKey={4} componentClass={Link} to="/register" href="/register" id="zapisy">
+                    <NavItem eventKey={5} componentClass={Link} to="/register" href="/register" id="zapisy">
                         Zapisz się!
                     </NavItem>
                 </Nav>

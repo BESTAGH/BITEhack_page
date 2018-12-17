@@ -10,38 +10,35 @@
 
 }
 
-.Sdescription h3 {
-    text-align: center;
+
+
+.far_img img {
+    width: 100%;
     margin-top: 0px;
+    background-color: white;
+    border-style: solid;
+    border-color: white;
+    border-width: 19px;
+}
+.sabre_img img {
+    width: 100%;
+    margin-top: 0px;
+    background-color: white;
+    border-style: solid;
+    border-color: white;
+    border-width: 19px;
 }
 
-.SGimg {
-    margin-top: -200px;
-    padding: 20px;
+
+@media  screen and (min-width: 768px) {
+    .far_img img {
+        margin-top: 25%;
+    }
+    .sabre_img img {
+        margin-top: 25%;
+    }
 }
 
-
-.SG {
-    margin-bottom: 400px;
-}
-
-.Sponsor {
-    margin-bottom: 40px;
-}
-
-.love {
-    width: 70%;
-}
-
-.Sdescription {
-    text-align: left;
-    padding-left: 30px;
-    margin-top: 10px
-}
-
-.Sdescription br {
-    line-height: 170%;
-}
 
 .patroni_div {
     background-color: white;
@@ -59,80 +56,7 @@
     margin-top: 16%;
     margin-bottom:30px;
 }
-.glowny{
-    font-size: 105%;
-}
 
-.Q_img img {
-    width: 65%;
-    margin-top: 0px;
-
-}
-.Ass_img img{
-    width: 100%;
-    margin-top: 0;
-    background-color: white;
-    border-style: solid;
-    border-color: white;
-    border-width: 10px;
-}
-
-.Nok_img img {
-    width: 85%;
-    margin-top: 0px;
-    background-color: white;
-}
-
-.Er_img img {
-    width: 60%;
-    margin-top: 0px;
-    background-color: white;
-    border-style: solid;
-    border-color: white;
-    border-width: 17px;
-}
-
-.Ant_img img {
-    width: 85%;
-    margin-top: 0px;
-    background-color: white;
-    border-style: solid;
-    border-color: white;
-    border-width: 19px;
-}
-
-.Ele_img img {
-    width: 90%;
-    margin-top: 0px;
-    background-color: white;
-}
-
-
-@media  screen and (min-width: 768px) {
-    .Q_img img {
-        margin-top: 15%;
-    }
-
-    .Ass_img img{
-        margin-top: 25%;
-
-    }
-
-    .Nok_img img {
-        margin-top: 15%;
-    }
-    .Er_img img {
-        margin-top: 20%;
-    }
-
-    .Ant_img img {
-        margin-top: 20%;
-    }
-
-        .Ele_img img {
-            margin-top: 14%;
-        }
-    }
 
 .media_div{
     background-color: white;
