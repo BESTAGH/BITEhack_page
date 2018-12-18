@@ -20,7 +20,7 @@ class Partners extends Component {
                         <div className="farnell">
                             <Col xs={12} sm={4} className="Simg">
                                 <div className="far_img">
-                                    <a href="pl.farnell.com"><Image src={require('../img/partners/farnel.png')} /></a>
+                                    <a href="https://pl.farnell.com"><Image src={require('../img/partners/farnel.png')} /></a>
                                 </div>
                             </Col>
                             <Col xs={12} sm={8} className="Sdescription">
@@ -35,7 +35,7 @@ class Partners extends Component {
                                     Profesjonalne wsparcie techniczne i dedykowane usługi rozwojowe pomagają naszym klientom szybciej opracowywać prototypy.
                                 </p>
                                 <p>
-                                    Dodatkowo społeczność <a href="https://www.element14.com" className="partnerLink">element14 </a> jest wartościowym źródłem zasobów wiedzy dla studentów na całym świecie
+                                    Dodatkowo społeczność <a href="https://www.element14.com" className="partnerLink">element14 </a> jest wartościowym źródłem zasobów wiedzy dla studentów na całym świecie.
                                 </p>
                                 <p>
                                     Zapraszamy także do korzystania z naszego programu dla AGH gdzie oferujemy specjalne warunki sprzedaży i zniżki dla studentów.
