@@ -18,6 +18,8 @@ class Footer extends Component {
                             <br/>
                             <a href="https://drive.google.com/file/d/1Ugecp1mISIBd0s2yEzR53TgzzonJwOF6/view?usp=sharing">Informacje o przetwarzaniu danych</a>
                             <br/>
+                            <a href="/components">Lista części na hackathon robotyczny</a>
+                            <br/>
                             <br/>
                             <div className="organizer-title"><strong>Koordynator projektu</strong></div>
                             <div className="organizer-name"><i className="far fa-user"></i> Michał Błasiak</div>

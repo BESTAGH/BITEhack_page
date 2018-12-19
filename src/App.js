@@ -9,6 +9,7 @@ import Navbar from './components/CustomNavbar';
 import Particles from './components/Particles';
 import Hackathon from './components/Hackathon';
 import Register from './components/Register';
+import Components from './components/Components';
 import { TransitionGroup, CSSTransition } from "react-transition-group";
 
 import "./App.css"
@@ -78,6 +79,7 @@ class App extends Component {
                       <Route exact path="/partners" component={Partners} />
                       <Route exact path="/sponsors" component={Sponsors} />
                       <Route exact path="/register" component={Register} />
+                      <Route exact path="/components" component={Components} />
                       <Route exact path="/" component={Home} />
 
                       <Route exact path="/regulamin.pdf" redirectTo="/regulamin.pdf" />

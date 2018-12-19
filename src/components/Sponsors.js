@@ -162,7 +162,7 @@ class Sponsors extends Component {
                             </p>
                             <p>
                                 W ANT podchodzimy kompleksowo do realizacji projektów. Wspólnie z Klientem opracowujemy koncepcję i strategię wdrożenia, dostarczamy automatykę przemysłową oraz sprzęt, tworzymy i wdrażamy dedykowane oprogramowanie oraz zapewniamy 24/7 support. Wdrażane systemy tworzone są w oparciu o autorską platformę zrealizowaną od podstaw i stale rozwijaną przez nasz zespół.
-                            </p>s
+                            </p>
                             <p>
                                 Jesteśmy młodym, aktywnym i szybko rozwijającym się zespołem inżynierów realizującym dedykowane systemy dla międzynarodowych firm produkcyjnych. Jeśli lubisz wyzwania i chcesz wspólnie z nami tworzyć i rozwijać autorskie oprogramowanie implementowane na całym świecie – dołącz do naszego zespołu.                            </p>
 

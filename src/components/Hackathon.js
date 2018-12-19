@@ -160,7 +160,6 @@ class Hackathon extends Component {
                                     Weź ze sobą swój laptop z zainstalowanym oprogramowaniem Arduino  <a href="https://www.arduino.cc/en/Main/Software">&gt;link&lt;</a> i wszystkie części, które uważasz za pomocne, a my ich nie zapewniamy. Pamiętaj by swoją listę części skonsultować wcześniej z koordynatorem ds. hackathonu robotycznego: albert.luczak@best.krakow.pl
                                 </Panel.Body>
                             </Panel>
-                            {/*
                             <Panel eventKey="8">
                                 <Panel.Heading onClick={() => this.handleSelect('8')}>
                                     <Panel.Title>
@@ -168,10 +167,9 @@ class Hackathon extends Component {
                                     </Panel.Title>
                                 </Panel.Heading>
                                 <Panel.Body collapsible>
-                                    Będą na was czekały …. …. … . Będą też dostępne stoły z lutownicą oraz drukarka 3D.
+                                    Cała lista części, które zapewniamy znajduje się <a href="/components">&gt;tutaj&lt; </a>
                                 </Panel.Body>
                             </Panel>
-                            */}
                             <Panel eventKey="9">
                                 <Panel.Heading onClick={() => this.handleSelect('9')}>
                                     <Panel.Title>
