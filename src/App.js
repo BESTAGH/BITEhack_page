@@ -13,6 +13,7 @@ import Components from './components/Components';
 import { TransitionGroup, CSSTransition } from "react-transition-group";
 
 import "./App.css"
+import NotFound from './components/NotFound'
 
 
 let height = 0;
@@ -80,13 +81,12 @@ class App extends Component {
                       <Route exact path="/sponsors" component={Sponsors} />
                       <Route exact path="/register" component={Register} />
                       <Route exact path="/components" component={Components} />
-                      <Route exact path="/" component={Home} />
-
                       <Route exact path="/regulamin.pdf" redirectTo="/regulamin.pdf" />
                       <Route exact path="/przetwarzanie-danych.pdf" redirectTo="/przetwarzanie-danych.pdf" />
 
                       <Route exact path="/old" redirectTo="/old/index.html" />
-
+                      <Route exact path="/" component={Home} />
+                      <Route component={NotFound}/>
 
                     </Switch>
                   </CSSTransition>

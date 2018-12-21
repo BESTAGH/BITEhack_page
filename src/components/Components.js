@@ -1,12 +1,18 @@
 import React, {Component} from 'react';
 import "./Components.css";
 import ContentDiv from "../CustomComponents/ContentDiv";
-
+import MetaTags from 'react-meta-tags';
 
 class Components extends Component {
     render() {
         return (
             <ContentDiv>
+                <MetaTags>
+                  <meta content='Bitehack części' property='og:title'/>
+                  <meta content='Super hackathon' property='og:description'/>
+                  <meta content='http://www.bitehack.best.krakow.pl/components' property='og:url'/>
+                  <meta content='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN90lduXisEbSyVbU4SHa-vcRjQeSZZH7d8kY7AkX3L-f56dFhFw' property='og:image'/>
+                </MetaTags>
                 <div className="czesci">
                     <h3>Lista części dostępnych na hackathonie robotycznym dla każdej drużyny [linki]</h3>
                     <ol>

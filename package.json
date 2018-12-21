@@ -10,6 +10,7 @@
     "react-activity": "^1.2.2",
     "react-bootstrap": "^0.32.4",
     "react-dom": "^16.5.2",
+    "react-meta-tags": "^0.7.3",
     "react-panel": "0.0.5",
     "react-panelgroup": "^1.0.7",
     "react-particles-js": "^2.3.0",
