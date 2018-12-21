@@ -78,6 +78,9 @@ class Hackathon extends Component {
                                             <p>
                                                 W konkurencji robotycznej uczestnicy będą mieli za zadanie zaprojektować i zbudować od podstaw gotowy projekt, zarówno od strony softwarowej jak i hardwarowej przy użyciu dostarczonych przez organizatorów, a także przygotowanych przez uczestników komponentów. Na zrealizowanie zadania zespoły będą miały 24 godziny.
                                             </p>
+                                            <p>
+                                                <a href="/components">Lista części na hackathon robotyczny &gt; </a>
+                                            </p>
                                         </Col>
                                     </Row>
                                 </Grid>

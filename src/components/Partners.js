@@ -96,11 +96,11 @@ class Partners extends Component {
                             <Col xs={6} sm={3} className="media_logo">
                                 <a href="http://www.bis.agh.edu.pl/"><Image src={require('../img/partners/media/BIS.png')} className="logoBIS"  /></a>
                             </Col>
-                                {/*
+
                             <Col xs={6} sm={3} className="media_logo">
                                 <a href="http://summit.datamass.io/"><Image src={require('../img/partners/media/datamass.png')} className="logodata"  /></a>
                             </Col>
-                            */}
+
                             <Col xs={6} sm={3} className="media_logo">
                                 <a href="https://www.dlastudenta.pl/"><Image src={require('../img/partners/media/dlastudentapl.jpg')} className="logodla"  /></a>
                             </Col>
@@ -110,7 +110,7 @@ class Partners extends Component {
                             <Col xs={6} sm={3} className="media_logo">
                                 <a href="http://www.podajdalej.info.pl/"><Image src={require('../img/partners/media/PodajDalej.png')} className="logoPodaj"  /></a>
                             </Col>
-                                {/*
+
                             <Col xs={6} sm={3} className="media_logo">
                                 <a href="https://podprad.pl/"><Image src={require('../img/partners/media/podprad.jpg')} className="logoPrad"  /></a>
                             </Col>
@@ -118,24 +118,33 @@ class Partners extends Component {
                             <Col xs={6} sm={3} className="media_logo">
                                 <a href="https://programistamag.pl//"><Image src={require('../img/partners/media/programista.png')} className="logoProg"  /></a>
                             </Col>
-                            */}
+
                             <Col xs={6} sm={3} className="media_logo">
                                 <a href="https://radio17.pl/"><Image src={require('../img/partners/media/radio17.png')} className="logoRadio"  /></a>
                             </Col>
+                                {/*
                             <Col xs={6} sm={3} className="media_logo">
                                 <a href="http://www.omgkrk.com/"><Image src={require('../img/partners/media/OMG.png')} className="logoOMG"  /></a>
                             </Col>
+
                             <Col xs={6} sm={3} className="media_logo">
                                 <a href="https://challengerocket.com/"><Image src={require('../img/partners/media/rocket.png')} className="logorocket"  /></a>
                             </Col>
                             <Col xs={6} sm={3} className="media_logo">
                                 <a href="https://www.raibay.com/"><Image src={require('../img/partners/media/rb.png')} className="logorb"  /></a>
                             </Col>
-                            <Col xs={6} sm={3} smOffset={3} className="media_logo">
+                            */}
+                            <Col xs={6} sm={3}  className="media_logo">
                                 <a href="http://itkrk.pl/index.html"><Image src={require('../img/partners/media/itkrk.png')} className="logoitkrk"  /></a>
                             </Col>
-                            <Col xs={6} sm={3} className="media_logo">
+                            <Col xs={6} sm={3}  className="media_logo">
                                 <a href="https://www.studentnews.pl/"><Image src={require('../img/partners/media/studentnews.png')} className="logosnews"  /></a>
+                            </Col>
+                            <Col xs={6} sm={3}  className="media_logo">
+                                <a href="https://www.eurostudent.pl/"><Image src={require('../img/partners/media/eurostudent.jpg')} className="logoeuro"  /></a>
+                            </Col>
+                            <Col xs={6} sm={3}  className="media_logo">
+                                <a href="http://itberries.pl"><Image src={require('../img/partners/media/berries.png')} className="logoberries"  /></a>
                             </Col>
 
                         </Row>
