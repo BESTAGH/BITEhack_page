@@ -114,7 +114,7 @@ class Register extends Component {
 
   isRoboticOver = () => {
     const now = new Date().getTime();
-    const roboticTime = new Date('Dec 31, 2018 00:00:00').getTime();
+    const roboticTime = new Date('Dec 29, 2018 00:00:00').getTime();
     return roboticTime < now
   }
 
