@@ -122,18 +122,15 @@ class Partners extends Component {
                             <Col xs={6} sm={3} className="media_logo">
                                 <a href="https://radio17.pl/"><Image src={require('../img/partners/media/radio17.png')} className="logoRadio"  /></a>
                             </Col>
-                                {/*
                             <Col xs={6} sm={3} className="media_logo">
                                 <a href="http://www.omgkrk.com/"><Image src={require('../img/partners/media/OMG.png')} className="logoOMG"  /></a>
                             </Col>
-
                             <Col xs={6} sm={3} className="media_logo">
                                 <a href="https://challengerocket.com/"><Image src={require('../img/partners/media/rocket.png')} className="logorocket"  /></a>
                             </Col>
                             <Col xs={6} sm={3} className="media_logo">
                                 <a href="https://www.raibay.com/"><Image src={require('../img/partners/media/rb.png')} className="logorb"  /></a>
                             </Col>
-                            */}
                             <Col xs={6} sm={3}  className="media_logo">
                                 <a href="http://itkrk.pl/index.html"><Image src={require('../img/partners/media/itkrk.png')} className="logoitkrk"  /></a>
                             </Col>
