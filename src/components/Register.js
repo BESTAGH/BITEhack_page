@@ -108,7 +108,7 @@ class Register extends Component {
   isThereTimeLeft = () => {
     const countDownDate = new Date("Nov 26, 2018 00:00:00").getTime();
     const now = new Date().getTime();
-    const endOfRegistration = new Date('Jan 4, 2019 00:00:00').getTime();
+    const endOfRegistration = new Date('Jan 5, 2019 00:00:00').getTime();
     return now > countDownDate && now < endOfRegistration
   }
 

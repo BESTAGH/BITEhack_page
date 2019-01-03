@@ -4,7 +4,7 @@ import './Countdown.css'
 export default class Countdown extends React.Component {
   isAfterRegistration = () => {
     const now = new Date().getTime();
-    const endOfRegistration = new Date('Jan 4, 2019 00:00:00').getTime();
+    const endOfRegistration = new Date('Jan 5, 2019 00:00:00').getTime();
     return now > endOfRegistration
   }
 
