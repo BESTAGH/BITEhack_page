@@ -29,12 +29,24 @@
     border-width: 19px;
 }
 
+.dass_img img {
+    width: 100%;
+    margin-top: 0px;
+    background-color: white;
+    border-style: solid;
+    border-color: white;
+    border-width: 19px;
+}
+
 
 @media  screen and (min-width: 768px) {
     .far_img img {
         margin-top: 25%;
     }
     .sabre_img img {
+        margin-top: 25%;
+    }
+    .dass_img img {
         margin-top: 25%;
     }
 }
