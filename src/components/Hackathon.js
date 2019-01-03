@@ -60,7 +60,14 @@ class Hackathon extends Component {
                                         </Col>
                                         <Col xs={12} sm={8} className="description2">
                                             <p>
-                                                Pierwszą konkurencją jest maraton programowania. W ramach konkursu ok. <strong>80 uczestników</strong> zainteresowanych sektorem IT, współpracujących w maksymalnie czteroosobowych zespołach, będzie pracować przez 24h w wybranej technologii nad postawionym przez nas problemem. Po upłynięciu czasu przeznaczonego na wykonanie zadania odbędą się krótkie prezentacje projektu.
+                                                Hackathon klasyczny to 24-godzinny maraton programowania.  W tym czasie Wasze zespoły - maksymalnie czteroosobowe będą się mogły zmierzyć z postawionym przez nas problemem. Głównym tematem będzie Open Data. Liczymy, że puścicie wodzę wyobraźni
+                                                i będziecie mogli się wykazać.
+                                            </p>
+                                            <p>
+                                                Najlepsze rozwiązania zostaną ocenione pod kątem funkcjonalności, kreatywności i możliwości rozwoju w wartość biznesową!
+                                            </p>
+                                            <p>
+                                                Dodatkowo oprócz nagród w tej konkurencji można zdobyć nagrodę za wypełnienie dodatkowego zadania od naszego sponsora głównego. Więcej szczegółów o zadaniu możecie poczytać <a href="https://drive.google.com/file/d/1jCB3FGEBYOYjAA1YrCirDUdRzV12yBfA/view?usp=sharing">TUTAJ &gt;</a>
                                             </p>
                                         </Col>
                                     </Row>
@@ -76,7 +83,10 @@ class Hackathon extends Component {
                                         </Col>
                                         <Col xs={12} sm={8} className="description3">
                                             <p>
-                                                W konkurencji robotycznej uczestnicy będą mieli za zadanie zaprojektować i zbudować od podstaw gotowy projekt, zarówno od strony softwarowej jak i hardwarowej przy użyciu dostarczonych przez organizatorów, a także przygotowanych przez uczestników komponentów. Na zrealizowanie zadania zespoły będą miały 24 godziny.
+                                                Zadaniem drużyny w konkurencji robotycznej jest stworzenie od podstaw prototypu urządzenia, który będzie w stanie reagować na otoczenie lub będzie zdalnie sterowany za pomocą kontrolera. Oznacza to, że możecie zbudować autonomicznego robota lub autko na pilota. Będziecie na to mieli 24 godziny.
+                                            </p>
+                                            <p>
+                                                Tesli nie zbudujemy, ale próbować warto.
                                             </p>
                                             <p>
                                                 <a href="/components">Lista części na hackathon robotyczny &gt; </a>
