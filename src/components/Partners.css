@@ -56,6 +56,24 @@
     background-color: white;
 }
 
+.barter_div{
+    background-color: white;
+    color: black;
+}
+.barter_div p {
+    padding: 5px;
+}
+
+.logoWado {
+    padding: 10px;
+    width: 70%;
+}
+
+.logoStar{
+    padding: 10px;
+    width: 50%;
+}
+
 .logoP1, .logoP2, .logoP3{
     width: 50%;
 }

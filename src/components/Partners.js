@@ -138,6 +138,27 @@ class Partners extends Component {
                         </div>
                     </Row>
 
+                    <h2>Partnerzy barterowi</h2>
+                    <div className="barter_div">
+                        <Row classname="barter">
+                            <Col xs={12} sm={6} className="patron_logo">
+                                <a href="http://www.starbucks.pl/">
+                                    <Image src={require('../img/partners/starbucks.png')} className="logoStar"/></a>
+                                <p>
+                                    Starbucks Coffee Company jest wiodącą firmą, która pozyskuje, pali oraz sprzedaje specjalistyczne kawy na całym świecie od 1971 roku.Starbucks to synonim najwyższej jakosci kawy i obsługi na najlepszym poziomie.Znane na całym świecie kawy Starbucks przyrządzane są w 100% z najwyższej jakości ziaren arabica uprawianych we wszystkich najważniejszych regionach na świecie – w Ameryce Południowej, Afryce oraz w regionie Azji i Pacyfiku.
+                                </p>
+                            </Col>
+                            <Col xs={12} sm={6} className="patron_logo">
+                                <a href="http://cukierniawadowice.pl/">
+                                    <Image src={require('../img/partners/wadowice.png')}
+                                                                               className="logoWado"/></a>
+                                <p>
+                                    ul. Budryka 7 (ds Hajduczek),<br/> Miasteczko AGH
+                                </p>
+                            </Col>
+                        </Row>
+                    </div>
+
 
                     <h2>Patroni honorowi</h2>
                     <div className="patroni_div">
@@ -156,6 +177,8 @@ class Partners extends Component {
                             </Col>
                         </Row>
                     </div>
+
+
 
                     <h2>Patroni medialni</h2>
                     <div className="media_div">
@@ -202,7 +225,7 @@ class Partners extends Component {
                                                                         className="logoOMG"/></a>
                             </Col>
                             <Col xs={6} sm={3} className="media_logo">
-                                <a href="https://challengerocket.com/"><Image
+                                <a href="http://bit.ly/2FeGT1t"><Image
                                     src={require('../img/partners/media/rocket.png')} className="logorocket"/></a>
                             </Col>
                             <Col xs={6} sm={3} className="media_logo">
